@@ -1,2 +1,2 @@
-# I2PAPP
-A central repo for I2PAPP organiszation
+# i2papp
+A semi-central repo for i2papp organization.
